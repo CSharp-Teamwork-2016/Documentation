@@ -5,7 +5,7 @@
 
 # Factories
 - Convert to non-static
-- Instantiate object via reflection - use a binding dictionary <Enum.EnemyType, Class.Enemy>
+- Instantiate object via reflection - use a binding dictionary \<Enum.EnemyType, Class.Enemy\>
 
 # Renderer
 - Models should pass a rendering strategy instead of the Renderer typechecking each model
